@@ -1,0 +1,200 @@
+{
+  "settings": {
+    "name": "Serialbaz1",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise4",
+      "title": "Mobirise 4",
+      "styling": {
+        "primaryColor": "#149dcc",
+        "secondaryColor": "#ff3366",
+        "successColor": "#F7ED4A",
+        "infoColor": "#82786E",
+        "warningColor": "#879A9F",
+        "dangerColor": "#B1A374",
+        "mainFont": "Rubik",
+        "display1Font": "Rubik",
+        "display1Size": 4.25,
+        "display2Font": "Rubik",
+        "display2Size": 3,
+        "display5Font": "Rubik",
+        "display5Size": 1.5,
+        "display7Font": "simpbdo",
+        "display7Size": "1.6",
+        "display4Font": "Merriweather",
+        "display4Size": "1",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": false,
+        "isScrollToTopButton": false
+      },
+      "additionalSetColors": []
+    },
+    "favicon": "",
+    "noImageResize": "",
+    "versionFirst": "4.1.4",
+    "uniqCompNum": 6,
+    "versionPublish": "4.1.4"
+  },
+  "pages": {
+    "Tvseries001jpg.html": {
+      "settings": {
+        "title": "Help",
+        "meta_descr": "راهنمای فروشگاه",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text": {
+              "text-align": "center"
+            },
+            ".mbr-text DIV": {
+              "color": "#232323"
+            },
+            ".mbr-text B": {
+              "color": "#cc2952"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>راهنمای فارسی سریالهای فروشگاه</b> \n<div>\n</div><div>این سایت حاوی اطلاعات بیش از 600 سریال میباشد \n</div><div>\n</div><div>برای هر سریال معرفی کوتاه+ جدیدترین پوستر سریال+تعداد فصلها+تعداد اپیزودها+شبکه نمایش دهنده+وضعیت پخش&nbsp;<span style=\"font-size: 1.6rem;\">وامتیازسریال &nbsp;فرار گرفته است</span></div><div>\n</div><div>&nbsp;\n</div><div>\n</div><div>برای دریافت اطلاعات بیشتر ویا خرید سریال میتوانید\n</div><div>\n</div><div>با شماره موبایل 09192010231 تماس بگیرید\n</div><div>\n</div><div><br></div></div>\n        </div>\n    </div>\n</section>",
+          "_cid": "qs2jit6I7F",
+          "_anchor": "content1-2",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"25\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#149dcc\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>\n                    \n                <div><br></div><div>تمامی سریالها دارای زیرنویس کاملا هماهنگ شده میباشد\n</div><div>\n</div><div>&nbsp;http://serialbaz.tk آدرس اصلی سایت</div><div>\n</div><div>&nbsp;http://serialbaz1.tk در صورت مسدود شدن ادرس بالا اذرس بعدی</div><div>\n</div><div>قبل از خرید از فروشگاه حتما راهنمای سیستم خرید آنلاین خوانده شود\n</div><div>\n</div><div>تمامی فیلمها و سریال ها همراه با تیزر (تبلیغ فیلم) و کاور (فایل عکس در هر پوشه) ارسال میشوند\n</div><div>\n</div><div>&nbsp;تمامی فیلمها و سریالها بر روی دی وی دی معتبرکپی میشوند\n</div><div>\n</div><div>&nbsp;این لیست شامل تمام سریالها نیست \nچون فروشگاه هر روز با چند فیلم و سریال  به روز میشوند &nbsp;</div><br><div>پس لطفا اگر سریال مورد نظرتان در لیست نیست به ما اطلاع دهید</div><div>\n</div><div>در این سایت فروش فیلم و سریال &nbsp;اچ دی بر روی هارد هم صورت میگیرد\n</div><div>\n</div><div>به همراه سریالهای خریداری شده یک دی وی دی شامل قسمت اول چند سریال دیگر به عنوان هدیه برای شما ارسال میشود\n</div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_cid": "qs2lbpEVqP",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content9-3"
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-section-subtitle": {
+              "color": "#767676"
+            },
+            "B": {
+              "color": "#cc2952"
+            }
+          },
+          "_name": "content4",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\"><b>سوالات متداول\n</b><div></div><div>\n&nbsp;\n</div><div></div><div>\n&nbsp;سئوالات قبل از خرید&nbsp;</div></h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">\n                    \n                <div><br></div><div>&nbsp;سریال ها با چه فرمتی هستند؟\n</div><div>پاسخ: فرمت همه ی سریال ها و سریال ها با پسوند ام کا وی &nbsp;هستند، تعداد خیلی کمی ازآنها با پسوند ام پی فور میباشد</div><div>&nbsp;\n</div><div>ایا سریال ها در دی وی دی پلیرهای معمولی قابل اجرا میباشند؟\n</div><div>پاسخ: اگر پلیر از فرمت ام کا وی پشتیبانی کنه سریال ها قابل اجرا میباشد در غیر این صورت قبل خرید با پشتیبانی فروشگاه تماس بگیرید</div><div>&nbsp;\n</div><div>سریال هایی که تو سایت موجود نیست رو چجوری سفارش بدیم (سریال های درخواستی)؟\n</div><div>پاسخ: برای خرید سریال های مورد نظر خود که در سایت موجود نیست از طریق ایمیل , فرم تماس با ما  و تلفنی میتونید سفارش بدین.\n</div><div>&nbsp;\n<span style=\"font-size: 1.5rem;\"></span></div><div>سریال های خریداری شده از سایت در چه مدتی به دست مشتری ها میرسه ؟\n</div><div>پاسخ: سریال های ثبت شده از سایت بعد از سفارش با پست پیشتاز حداکثردر ۳ یا ۴ روز کاری  به دست مشتری ها میرسه.\n</div><br><div><span style=\"font-size: 1.5rem;\">&nbsp;</span></div><div>&nbsp;ایا سریال ها روی هارد هم فروخته میشود ؟\n</div><div>پاسخ: بله,برای خرید سریال روی هارد و اطلاعات بیشتر تماس بگیرید.\n</div><div><br></div><div>هزینه نهایی خرید چگونه محاسبه می شود ؟\n</div><div>پس از مشخص شدن عناوین سریالهای درخواستی توسط خریدار ما حجم  وتعداد دی وی دی ها را به شما اعلام میکنیم ودر صورت توافق نهایی \n</div><div>برای شما ارسال میکنیم\n</div><div>&nbsp;سریال های درخواستی بر روی چه  دی وی دی خامی عرضه می شود ؟\n</div><div>سریال های درخواستی شما درحال حاضر بر روی Sony و Princo رایت می شوند. در صورتی که نوع دی وی دی خام در آینده تغییر کند حتما در این مورد به شما اطلاع داده خواهد شد.\n</div><div>&nbsp;\n</div><div>&nbsp;سریال هایی که بصورت دو زبانه هستند به چه صورت میباشد ؟\n</div><div>سریال هایی که بصورت دو زبانه بوده و هردو صوت زبان اصلی و دوبله فارسی در آن گنجانده شده است . بصورت پیشفرض صوت زبان اصلی هنگام اجرای سریال پخش میگردد . برای تغییر صوت و مشاهده سریال با دوبله فارسی میتوانید هنگام اجرای سریال در نرم افزار </div>از قسمت تنظیمات زبان مورد نظر را انتخاب کنید<br><div>&nbsp;. امکان تغییر زبان در نرم افزارهای دیگر و دستگاههای پخش خانگی نیز وجود دارد.\n</div><div>&nbsp;\n</div><div>&nbsp;سریالهای هدیه به چه صورت و چگونه برای مشتری ارسال میشود ؟\n</div><div>سریالهای هدیه در یک دی وی دی به همراه سریالهای خریداری شده ارسال میشود \n</div></h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "qs2ndWHDao",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content4-4"
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".section-text": {
+              "padding": "2rem 0"
+            },
+            ".inner-container": {
+              "margin": "0 auto"
+            },
+            "@media (max-width: 768px)": {
+              ".inner-container": {
+                "width": "100% !important"
+              }
+            }
+          },
+          "_name": "content10",
+          "_customHTML": "<section class=\"mbr-section article content10\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"66\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"25\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#2e2e2e\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-white mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>\n                    \n                <div><br></div><div><b>اگر جواب سوال خود را پیدا نکردید با ما تماس بگیرید\n</b></div><div>\n</div><div><b>سپهر &nbsp; 09192010231\n</b></div><div><br></div></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n    </div>\n</section>",
+          "_cid": "qs2oZOY5Ko",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content10-5"
+        }
+      ]
+    },
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            }
+          },
+          "_name": "header2",
+          "_customHTML": "<section group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{\n         'mbr-fullscreen': fullScreen,\n         'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"checkbox\" title=\"Show Arrow\" name=\"showArrow\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/jumbotron.jpg\" selected>\n            <input type=\"color\" title=\"Background Color\" value=\"#073B4C\">\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#767676\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container align-center\">\n        <div class=\"media-container-column mbr-white col-md-10 offset-md-1\">\n            <h1 class=\"mbr-section-title mbr-bold pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">\n                SERIALBAZ</h1>\n            <h3 class=\"mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showSubTitle\">فروشگاه انلاین سریال های خارجی روز دنیا&nbsp;</h3>\n            <p class=\"mbr-text pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">\n                ارشیو بیش از 1000 سریال خارجی بروی هارد و دی وی دی\n            </p>\n            <div mbr-buttons mbr-theme-style=\"display-7\" class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-secondary\" href=\"Tvseries001jpg.html\"><span class=\"mbri-question mbr-iconfont mbr-iconfont-btn\"></span>راهنمای فروشگاه</a>\n                <a class=\"btn btn-md btn-primary\" href=\"http://serialbaz.tk/index.html\" target=\"_blank\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>آرشیو سریالها</a></div>\n        </div>\n    </div>\n    <div mbr-if=\"showArrow\" class=\"mbr-arrow hidden-sm-down\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <i class=\"mbri-down mbr-iconfont\"></i>\n        </a>\n    </div>\n</section>",
+          "_cid": "qs2ei9tVt5",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "header2-0"
+        }
+      ]
+    }
+  }
+}

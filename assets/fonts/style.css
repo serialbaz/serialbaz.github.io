@@ -1,4 +1,8 @@
 @font-face {
+   font-family: 'timesbd';
+   src: url('timesbd/font.ttf');
+}
+@font-face {
    font-family: 'simpbdo';
    src: url('simpbdo/font.ttf');
 }
